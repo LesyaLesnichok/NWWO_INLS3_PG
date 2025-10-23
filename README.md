@@ -4,9 +4,9 @@ Projekt został udostępniony pod [linkiem] (lesyalesnichok.github.io/NWWO_INLS3
 
 
 ## Spis treści
-+[Technologie](#technologie)
-+[Uruchamianie](#uruchamianie)
-+[Zespół](#Zespół)
++ [Technologie](#technologie)
++ [Uruchamianie](#uruchamianie)
++ [Zespół](#Zespół)
 
 ## Technologie
 HTML5, CSS, Git, GitHub, GitHub Pages
