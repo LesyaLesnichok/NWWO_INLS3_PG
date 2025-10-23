@@ -7,9 +7,9 @@ Dziękuję za zinteresowanie projektem. Poniżej znajdziesz krótką instrukcje 
 
 ## Nowe branche
 W trakcie realizacji tego projektu byli stworżony następne branche:
-+ [main] (główna gałąż)
-+ [tiger] (dodatkowa gałąż dotycząnca tygrysa)
-+ [parrot] (dodatkowa gałąż dotycząnca papugi)
++ `main` (główna gałąż)
++ `tiger` (dodatkowa gałąż dotycząnca tygrysa)
++ `parrot` (dodatkowa gałąż dotycząnca papugi)
 
 Każda nowa zmiana powinna być umieszczona na osobnym branchu
 Nazwy:
