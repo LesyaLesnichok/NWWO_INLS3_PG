@@ -1,0 +1,26 @@
+h1 {
+    color: darkgreen;
+    text-align: center;
+}
+
+section {
+    border: 2px solid green;
+    margin: 10px;
+    padding: 10px;
+}
+
+section h2 {
+    color: darkorange;
+}
+
+section p {
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+section img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
